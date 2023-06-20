@@ -118,7 +118,7 @@
 <script>
     //menu responsivo
     $('.menu-mobile i ').click(function(){
-        $('.menu-mobile').find('ul').slideToggle();
+        $('.menu-mobile').find('ul').slideToggle()
 
     })
 </script>

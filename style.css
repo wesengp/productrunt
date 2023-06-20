@@ -108,7 +108,7 @@ section.topo{
     padding: 12px 8px;
 }
 
-.time-imagem img{max: width 100%;}
+.time-imagem img{max-width: 100%;}
 
 
 .circle{
@@ -215,8 +215,6 @@ section.diferenciais h2{
 
 .box-single-diferenciais img{
     max-width: 100%;
-    display: flex;
-    justify-content: b;
 }
 
 
